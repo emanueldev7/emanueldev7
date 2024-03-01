@@ -2,9 +2,9 @@
 - 👀 I’m interested in programação in python
 - 🌱 I’m currently learning python linguage
 - 💞️ I’m looking to collaborate on software projects
-- 📫 How to reach me ...
-- 😄 Pronouns: machão
-- ⚡ Fun fact: I ..._
+- 📫 How to reach me @manelgoncalves2302@gmail.com
+- 😄 Pronouns: TODOS
+- ⚡ Fun fact: 
 
 <!---
 emanueldev7/emanueldev7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
