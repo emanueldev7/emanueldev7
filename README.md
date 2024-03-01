@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emanueldev7
 - 👀 I’m interested in programação in python
-- 🌱 I’m currently learning english
+- 🌱 I’m currently learning python linguage
 - 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me ...
 - 😄 Pronouns: machão
